@@ -9,3 +9,5 @@ Try The Demo: https://pixe.lt/dashboard
 - Context API
 - ESLint
 - Prettier
+
+![alt screenshot](docs/images/screenshot.png)
