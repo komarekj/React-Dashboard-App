@@ -1,5 +1,7 @@
 # Custom Dashboard - React Frontend
 
+Try The Demo: https://pixe.lt/dashboard
+
 - Redux & Redux Saga
 - React Router
 - Material UI
